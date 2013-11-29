@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1376191376 source:/home/oier/of0.8/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.cpp
+	"IpEndpointName.h"
+	<cstdio>
+	"NetworkingUtils.h"
+
+1376191376 /home/oier/of0.8/addons/ofxOsc/libs/oscpack/src/ip/IpEndpointName.h
+
+1376191376 /home/oier/of0.8/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h
+
